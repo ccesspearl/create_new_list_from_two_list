@@ -15,6 +15,8 @@
 def combine(list1, list2): 
 
 # Create a variable that have empty list 
+    result_list = []
+    
 # Create a loop and add condition to find the odd number in list1 
 # Create a loop and add condition to find the even number in list2
 # Input the given values in the lists and print the results 
