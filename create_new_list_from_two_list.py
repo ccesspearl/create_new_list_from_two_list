@@ -30,3 +30,13 @@ def combine(list1, list2):
     return result_list
 
 # Input the given values in the lists and print the results 
+list1 = [10, 20, 25, 30, 35]
+print_list1 = list1
+print("list1 =", print_list1)
+
+list2 = [40, 45, 60, 75, 90]
+print_list2 = list2
+print("list2 =", print_list2)
+
+print("The odd from list1 and even from list2")
+print("result list:", combine(list1,list2))
