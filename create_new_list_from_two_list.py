@@ -12,6 +12,8 @@
 # Pseudocode 
 
 # Create a function that will combine the odd from first list and even from second list
+def combine(list1, list2): 
+
 # Create a variable that have empty list 
 # Create a loop and add condition to find the odd number in list1 
 # Create a loop and add condition to find the even number in list2
